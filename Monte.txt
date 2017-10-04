@@ -1,0 +1,7 @@
+tests-MBP:homework5 gushuqin$ java Monte
+The ratio of the area of the top right quadrant of the circle to the square is:  0.7853981633974483
+Dots in the circle: 3141627595
+Dots in the square: 4000000000
+estimate ratio generated from the dots is 0.78540689875
+The estimated value of PI = 3.141627595
+
